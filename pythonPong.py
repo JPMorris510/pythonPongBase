@@ -15,7 +15,7 @@ import turtle
 # Create ball
 '''Your code here'''
 
-# Create the fuctions which control paddle movement
+# Create the functions which control paddle movement
 '''Your code here'''
 
 # Create listeners for the inputs using turtle
